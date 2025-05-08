@@ -8,7 +8,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sergilh&theme=algolia" alt="candida18"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sergilh&theme=algolia" alt="sergiilh"  /></p>
 
 
 ## 🛠️ My Skills
