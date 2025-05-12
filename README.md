@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior Web Developer specialized in Frontend. I am an enthusiastic and ambitious person who loves to challenge myself and learn new skills and technologies. </h4>
+<h4 align="center">I am a Web Developer specialized in Frontend. I am an enthusiastic and ambitious person who loves to challenge myself and learn new skills and technologies. </h4>
 <br>
 
 ## 🔥 Streak Stats
